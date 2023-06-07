@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McBaumwolle
 - 👀 I’m interested in ... human activities
-- 🌱 I’m currently learning ... SQL
+- 🌱 I’m currently learning ... SQL, HTML and Git.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ✨ not ✨
 
