@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @McBaumwolle
-- 👀 I’m interested in ... human activities.
-- 🌱 I’m currently learning ... SQL, HTML and Git.
-- 💞️ I’m looking to collaborate on ... research. 
-- 📫 How to reach me ... just ask!
+- 👀 I’m interested in ... new technologies.
+- 🌱 I’m currently learning ... Git, Unix and CSS.
+- 💞️ I’m looking to collaborate on ... some research. 
+- 📫 How to reach me ... via Mastodon!
 
 <!---
 McBaumwolle/McBaumwolle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
