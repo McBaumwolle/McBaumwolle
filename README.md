@@ -1,8 +1,9 @@
 ## Matthias
+<!--
 ![Mastodon Badge](https://img.shields.io/badge/-Mastodon-3088D4?style=flat-square&logo=Mastodon&logoColor=white&link=https://mastodon.social/@mcbaumwolle&label=social)
 ![Mail Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:gaznqi94a@mozmail.com&label=thi.de)
 ![Orcid Badge](https://img.shields.io/badge/-Orcid-A6CE39?style=flat-square&logo=Orcid&logoColor=white&link=https://orcid.org/0009-0008-8497-2187&label=ID)
-
+-->
 
 I'm Matthias and I'm currently studying Artificial Intelligence at the University of Applied Sciences Ingolstadt. I am interested in machine learning, data science and medical informatics. 
 
